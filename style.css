@@ -27,3 +27,7 @@ section {
 .bg-primary {
     background-color: rgba(20, 48, 133, 0.8) !important;
 }
+
+.btn:focus {
+    box-shadow: none
+}
