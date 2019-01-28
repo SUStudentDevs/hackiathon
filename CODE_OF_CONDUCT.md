@@ -1,3 +1,9 @@
+<div style="display:flex; align-content: space-between; width:100%">
+<img src="logo-ads.png" width=200px>
+<img src="logo-hackiathon.png" width=290px>
+<img src="logo-alias.png" width=200px>
+</div>
+
 # HackIAthon - Code de Bonne Conduite
 
 ## Objectifs
@@ -20,9 +26,7 @@ En plus de faire preuve des valeurs ci-dessus, les comportements suivants (ainsi
 * Mise en ligne de contenu inaproprié
 
 ## Contact
-Si vous êtes victime ou témoins d'un acte qui vous semble contrevenir à ce code, vous pouvez contacter un des membres de l'équipe organisatrice, aux adresses suivantes:
-* hackIAthon@defis-sorbonne.fr
-* basile.pesin@etu.upmc.fr
+Si vous êtes victime ou témoins d'un acte qui vous semble contrevenir à ce code, vous pouvez contacter un des membres de l'équipe organisatrice, à l'adresse suivante: [hackIAthon@defis-sorbonne.fr](hackIAthon@defis-sorbonne.fr)
 
 Nous nous pencherons sur le problème le plus rapidement possible.
 
@@ -30,4 +34,4 @@ Nous nous pencherons sur le problème le plus rapidement possible.
 Le participant ayant enfreint les règles de ce code sera sommé de cesser le comportement problématique, et le cas échéant de présenter des excuses à la victime. Si le participant refuse, l'équipe d'organisation se reserve le droite de prendre les mesures nécessaires, pouvant aller jusqu'à l'exclusion du hackathon, afin de prévenir ce type de comportement.
 
 ## Licence et remerciements
-Ce Code de Bonne Conduite est sous licence Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/). Il est adapté du Code de conduite de [SUStudentDevs](https://github.com/SUStudentDevs/Bienvenue/edit/master/CODE_OF_CONDUCT.md), qui est lui même très fortement inspiré du Community Covenant (http://community-covenant.net), version 1.0, disponible à http://community-covenant.net/version/1/0/.
+Ce Code de Bonne Conduite est sous licence Creative [Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Il est adapté du Code de conduite de [SUStudentDevs](https://github.com/SUStudentDevs/Bienvenue/edit/master/CODE_OF_CONDUCT.md), qui est lui même très fortement inspiré du [Community Covenant](http://community-covenant.net), version 1.0.
